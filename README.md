@@ -1,3 +1,3 @@
 # 100DAYSOFCODE
 
-<h1> The 100 Days Of Code Challenge </h1>
+<h2> The 100 Days Of Code Challenge </h2>
